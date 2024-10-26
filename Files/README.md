@@ -33,7 +33,7 @@
 ## Scaling:
 - **Kafka**: Apache Kafka is used for managing distributed event streaming. It ensures high throughput and scalability by efficiently handling large volumes of real-time data, making it ideal for tasks like real-time messaging and event-driven architectures.
   
-- **Redis**: Redis is used for caching and session management, boosting performance by storing frequently accessed data in memory. It also helps with managing real-time data and rate-limiting for scaling.
+- **Redis**: Redis is used for caching and session management, boosting performance by storing frequently accessed data in memory. It also helps with managing real-time data and rate-limiting for scaling. And a intermidiate communication between multiple-servers.
 
 ## Code Quality:
 - **Structured and Maintainable Code** 📚, following best practices to ensure readability, scalability, and easy maintenance.
